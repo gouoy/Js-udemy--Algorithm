@@ -12,7 +12,7 @@ O(40n+3) == O(n)
 ###### 상수항, 계수를 무시하고 최고차항만 표기하면 됨
 
 
-[image](./image.png)
+![image](./image.png)
 
 > 실행 속도 O(1) < O(log N) < O(N) < O(N log N) < O(N^2) < O(2^N)
 
